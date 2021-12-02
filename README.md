@@ -3,7 +3,7 @@ Automation (RPA) Projects with Code 2021
 
 *This list is continuously updated. - You can take pull request and contribute. All Links are tested and working fine.*
 
-1) [5 Tasks To Automate With Python](https://medium.com/robotacademy/5-tasks-to-automate-with-python-e7146996f3)
+1) [5 Tasks To Automate With Python] (https://medium.com/robotacademy/5-tasks-to-automate-with-python-e7146996f3)
 
 2) [21 Automation ideas for 2021] (https://medium.com/pythoneers/21-automation-ideas-for-2021-616313fd5e96)
 
